@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 指定了每个图标的宽度应当是整个宽度的1/3 -->
+    <item name="weather_icon" type="fraction">33%</item>
+
+</resources>
